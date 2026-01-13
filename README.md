@@ -109,3 +109,6 @@ All insights were consolidated into an interactive Tableau dashboard.
 - Short-term forecast panel
 
 The dashboard enables users to explore market conditions dynamically and compare price behavior across commodities and states.
+
+**Dashboard Link** 
+https://public.tableau.com/app/profile/tejaswa.karodi/viz/Mandi_Intelligence_Dashboard/Dashboard1
