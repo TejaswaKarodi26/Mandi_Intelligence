@@ -111,4 +111,4 @@ All insights were consolidated into an interactive Tableau dashboard.
 The dashboard enables users to explore market conditions dynamically and compare price behavior across commodities and states.
 
 **Dashboard Link** 
-https://public.tableau.com/app/profile/tejaswa.karodi/viz/Mandi_Intelligence_Dashboard/Dashboard1
+https://public.tableau.com/app/profile/tejaswa.karodi/viz/Mandi_Intelligence_Dashboard1/Dashboard1?publish=yes
